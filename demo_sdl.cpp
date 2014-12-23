@@ -4,6 +4,7 @@
 #include "Basic_Gb_Apu.h"
 #include "Sound_Queue.h"
 #include "SDL.h"
+#include "SDL_main.h"
 
 #include <stdlib.h>
 
