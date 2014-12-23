@@ -6,6 +6,7 @@
 #include <string.h>
 #include <stddef.h>
 #include <math.h>
+#include <limits.h>
 
 /* Copyright (C) 2003-2005 Shay Green. This module is free software; you
 can redistribute it and/or modify it under the terms of the GNU Lesser
